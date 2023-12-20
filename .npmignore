@@ -1,1 +1,18 @@
+# Testing this out because yarn is a pita
+# Ignore everything
+*
 
+# But not these files...
+!README.md
+!LICENSE.md
+!package.json
+
+# ...and not these directories...
+!priv/
+!priv/static/
+!priv/static/*
+
+!assets/
+!assets/js/
+!assets/js/phoenix/
+!assets/js/phoenix/*
